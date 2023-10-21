@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@qodestack/dl-yt-playlist": "^1.1.3"
+    "@qodestack/dl-yt-playlist": "^1.1.4"
   }
 }
