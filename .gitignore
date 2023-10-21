@@ -1,2 +1,5 @@
 .env
 node_modules
+
+# The folder containing all the YouTube data.
+data
