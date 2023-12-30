@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "beats": "bun run ./local_scripts/beats.ts"
+    "local:beats": "bun run ./scripts/local_beats.ts"
   },
   "author": "",
   "license": "ISC",
